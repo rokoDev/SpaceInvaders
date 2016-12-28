@@ -1,0 +1,120 @@
+<Solution>
+  <PropertyGroup Name="SpaceInvaders" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common_csb_files">
+          <Project Name="Bullet.csd" Type="Layer" />
+          <Project Name="GameOverLayer.csd" Type="Layer" />
+          <Project Name="GameScene.csd" Type="Scene" />
+          <Project Name="InvaderShip.csd" Type="Layer" />
+          <Project Name="ManGun.csd" Type="Layer" />
+          <Project Name="PauseLayer.csd" Type="Layer" />
+          <Project Name="StartScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="INVASION2000.TTF" />
+        </Folder>
+        <Folder Name="iPhone">
+          <PlistInfo Name="objects.csi" Type="Plist" />
+        </Folder>
+        <Folder Name="objects">
+          <Folder Name="lasers">
+            <Image Name="laserBlue_01.png" />
+            <Image Name="laserBlue_02.png" />
+            <Image Name="laserBlue_03.png" />
+            <Image Name="laserBlue_04.png" />
+            <Image Name="laserBlue_05.png" />
+            <Image Name="laserBlue_06.png" />
+            <Image Name="laserBlue_07.png" />
+            <Image Name="laserBlue_08.png" />
+            <Image Name="laserBlue_09.png" />
+            <Image Name="laserBlue_10.png" />
+            <Image Name="laserBlue_11.png" />
+            <Image Name="laserBlue_12.png" />
+            <Image Name="laserGreen_01.png" />
+            <Image Name="laserGreen_02.png" />
+            <Image Name="laserGreen_03.png" />
+            <Image Name="laserGreen_04.png" />
+            <Image Name="laserGreen_05.png" />
+            <Image Name="laserGreen_06.png" />
+            <Image Name="laserGreen_07.png" />
+            <Image Name="laserGreen_08.png" />
+            <Image Name="laserGreen_09.png" />
+            <Image Name="laserGreen_10.png" />
+            <Image Name="laserGreen_11.png" />
+            <Image Name="laserGreen_12.png" />
+            <Image Name="laserRed_01.png" />
+            <Image Name="laserRed_02.png" />
+            <Image Name="laserRed_03.png" />
+            <Image Name="laserRed_04.png" />
+            <Image Name="laserRed_05.png" />
+            <Image Name="laserRed_06.png" />
+            <Image Name="laserRed_07.png" />
+            <Image Name="laserRed_08.png" />
+            <Image Name="laserRed_09.png" />
+            <Image Name="laserRed_10.png" />
+            <Image Name="laserRed_11.png" />
+            <Image Name="laserRed_12.png" />
+          </Folder>
+          <Folder Name="manGuns">
+            <Image Name="spaceBuilding_023.png" />
+          </Folder>
+          <Folder Name="missiles">
+            <Image Name="spaceMissiles_001.png" />
+            <Image Name="spaceMissiles_002.png" />
+            <Image Name="spaceMissiles_003.png" />
+            <Image Name="spaceMissiles_004.png" />
+            <Image Name="spaceMissiles_005.png" />
+            <Image Name="spaceMissiles_006.png" />
+            <Image Name="spaceMissiles_007.png" />
+            <Image Name="spaceMissiles_008.png" />
+            <Image Name="spaceMissiles_009.png" />
+            <Image Name="spaceMissiles_010.png" />
+            <Image Name="spaceMissiles_011.png" />
+            <Image Name="spaceMissiles_012.png" />
+            <Image Name="spaceMissiles_013.png" />
+            <Image Name="spaceMissiles_014.png" />
+            <Image Name="spaceMissiles_015.png" />
+            <Image Name="spaceMissiles_016.png" />
+            <Image Name="spaceMissiles_017.png" />
+            <Image Name="spaceMissiles_018.png" />
+            <Image Name="spaceMissiles_019.png" />
+            <Image Name="spaceMissiles_020.png" />
+            <Image Name="spaceMissiles_021.png" />
+            <Image Name="spaceMissiles_022.png" />
+            <Image Name="spaceMissiles_023.png" />
+            <Image Name="spaceMissiles_024.png" />
+            <Image Name="spaceMissiles_025.png" />
+            <Image Name="spaceMissiles_026.png" />
+            <Image Name="spaceMissiles_027.png" />
+            <Image Name="spaceMissiles_028.png" />
+            <Image Name="spaceMissiles_029.png" />
+            <Image Name="spaceMissiles_030.png" />
+            <Image Name="spaceMissiles_031.png" />
+            <Image Name="spaceMissiles_032.png" />
+            <Image Name="spaceMissiles_033.png" />
+            <Image Name="spaceMissiles_034.png" />
+            <Image Name="spaceMissiles_035.png" />
+            <Image Name="spaceMissiles_036.png" />
+            <Image Name="spaceMissiles_037.png" />
+            <Image Name="spaceMissiles_038.png" />
+            <Image Name="spaceMissiles_039.png" />
+            <Image Name="spaceMissiles_040.png" />
+          </Folder>
+          <Folder Name="ships">
+            <Image Name="spaceShips_001.png" />
+            <Image Name="spaceShips_002.png" />
+            <Image Name="spaceShips_003.png" />
+            <Image Name="spaceShips_004.png" />
+            <Image Name="spaceShips_005.png" />
+            <Image Name="spaceShips_006.png" />
+            <Image Name="spaceShips_007.png" />
+            <Image Name="spaceShips_008.png" />
+            <Image Name="spaceShips_009.png" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
